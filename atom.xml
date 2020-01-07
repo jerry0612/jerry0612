@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jerryの个人博客</title>
+  
+  <subtitle>我有梦，有远方，我会为了它们奔跑，奋斗，直到成为连我自己都佩服的人。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jerry0612.github.io/jerry0612/"/>
+  <updated>2020-01-07T01:28:30.923Z</updated>
+  <id>https://jerry0612.github.io/jerry0612/</id>
+  
+  <author>
+    <name>Jerry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub+Hexo+Next搭建博客</title>
+    <link href="https://jerry0612.github.io/jerry0612/2020/01/06/GitHub-Hexo-Next%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://jerry0612.github.io/jerry0612/2020/01/06/GitHub-Hexo-Next%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-01-06T08:17:19.000Z</published>
+    <updated>2020-01-07T01:28:30.923Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;最近重新整理和利用最新版本的hexo+next重构博客，下面简单记录了搭建博客的完整过程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;一、环境准备&quot;&gt;&lt;a href=&quot;#一、环境准备&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://jerry0612.github.io/jerry0612/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://jerry0612.github.io/jerry0612/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
